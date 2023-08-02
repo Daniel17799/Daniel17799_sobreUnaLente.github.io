@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../Python_course"
+		},
+		{
+			"path": "../../../Downloads/p-gina-estilo-netflix-master/p-gina-estilo-netflix-master"
+		},
+		{
+			"path": "../../Pagina"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Proyecto"
+	}
+}
